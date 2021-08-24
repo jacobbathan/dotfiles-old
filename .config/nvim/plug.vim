@@ -7,6 +7,7 @@ call plug#begin()
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-rhubarb'
 Plug 'cohama/lexima.vim'
+Plug 'vimwiki/vimwiki'
 
 if has("nvim")
   Plug 'neovim/nvim-lspconfig'
